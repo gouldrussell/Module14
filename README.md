@@ -11,9 +11,7 @@
 ### Resulted in a large difference in both LR and SVM strategy returns (signficant)
 
 ### Step 2: Tune the trading algorithm by adjusting the SMA input features. 
-### Set the short window and long window
-### short_window = 1
-### long_window = 10
+### Set the short window (1) and long window (10)
 
 ### Answer the following question: What impact resulted from increasing or decreasing either or both of the SMA windows?
 ### SVM model resulted in continous strategy returns, while LR model strategy returns decreased significantly over 2020-2021.
