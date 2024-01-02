@@ -1,8 +1,8 @@
-### Module14
+# Module14
 
-### Code found in machine_learning_trading_bot.ipynp
-### Code to fine tune baseline trading algorithm found in machine_learning_trading_bot_optimize
-### Associated reference data found in emerging_markets_ohlcv.csv
+# Code found in machine_learning_trading_bot.ipynp
+# Code to fine tune baseline trading algorithm found in machine_learning_trading_bot_optimize
+# Associated reference data found in emerging_markets_ohlcv.csv
 
 
 ### Step 1: Tune the training algorithm by adjusting the size of the training dataset. 
