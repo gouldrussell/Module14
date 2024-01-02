@@ -18,4 +18,5 @@
 
 
 ### Step 3: Choose the set of parameters that best improved the trading algorithm returns. 
-### Save a PNG image of the cumulative product of the actual returns vs. the strategy returns, and document your conclusion in your `README.md` file.
+### SVM_Model_Pred.png was the best model (strategy returns) vs. actual returns.  
+### Short window SMA of 4, long window SMA of 100 and training window of 3 months.  
